@@ -1,0 +1,103 @@
+D:\person\kì 2 năm 3\DLDKMT\BTL\giaodien\giaodien\bin\Debug\giaodien.exe.config
+D:\person\kì 2 năm 3\DLDKMT\BTL\giaodien\giaodien\bin\Debug\giaodien.exe
+D:\person\kì 2 năm 3\DLDKMT\BTL\giaodien\giaodien\bin\Debug\giaodien.pdb
+D:\person\kì 2 năm 3\DLDKMT\BTL\giaodien\giaodien\obj\Debug\giaodien.csproj.AssemblyReference.cache
+D:\person\kì 2 năm 3\DLDKMT\BTL\giaodien\giaodien\obj\Debug\giaodien.Form1.resources
+D:\person\kì 2 năm 3\DLDKMT\BTL\giaodien\giaodien\obj\Debug\giaodien.Properties.Resources.resources
+D:\person\kì 2 năm 3\DLDKMT\BTL\giaodien\giaodien\obj\Debug\giaodien.csproj.GenerateResource.cache
+D:\person\kì 2 năm 3\DLDKMT\BTL\giaodien\giaodien\obj\Debug\giaodien.csproj.CoreCompileInputs.cache
+D:\person\kì 2 năm 3\DLDKMT\BTL\giaodien\giaodien\obj\Debug\giaodien.exe
+D:\person\kì 2 năm 3\DLDKMT\BTL\giaodien\giaodien\obj\Debug\giaodien.pdb
+D:\person\kì 2 năm 3\DLDKMT\BTL\giaodien - Copy (2)\giaodien\bin\Debug\giaodien.exe.config
+D:\person\kì 2 năm 3\DLDKMT\BTL\giaodien - Copy (2)\giaodien\bin\Debug\giaodien.exe
+D:\person\kì 2 năm 3\DLDKMT\BTL\giaodien - Copy (2)\giaodien\bin\Debug\giaodien.pdb
+D:\person\kì 2 năm 3\DLDKMT\BTL\giaodien - Copy (2)\giaodien\obj\Debug\giaodien.csproj.AssemblyReference.cache
+D:\person\kì 2 năm 3\DLDKMT\BTL\giaodien - Copy (2)\giaodien\obj\Debug\giaodien.Form1.resources
+D:\person\kì 2 năm 3\DLDKMT\BTL\giaodien - Copy (2)\giaodien\obj\Debug\giaodien.Properties.Resources.resources
+D:\person\kì 2 năm 3\DLDKMT\BTL\giaodien - Copy (2)\giaodien\obj\Debug\giaodien.csproj.GenerateResource.cache
+D:\person\kì 2 năm 3\DLDKMT\BTL\giaodien - Copy (2)\giaodien\obj\Debug\giaodien.csproj.CoreCompileInputs.cache
+D:\person\kì 2 năm 3\DLDKMT\BTL\giaodien - Copy (2)\giaodien\obj\Debug\giaodien.exe
+D:\person\kì 2 năm 3\DLDKMT\BTL\giaodien - Copy (2)\giaodien\obj\Debug\giaodien.pdb
+D:\person\kì 2 năm 3\DLDKMT\BTL\giaodien - Copy (2) - Copy\giaodien\bin\Debug\giaodien.exe.config
+D:\person\kì 2 năm 3\DLDKMT\BTL\giaodien - Copy (2) - Copy\giaodien\bin\Debug\giaodien.exe
+D:\person\kì 2 năm 3\DLDKMT\BTL\giaodien - Copy (2) - Copy\giaodien\bin\Debug\giaodien.pdb
+D:\person\kì 2 năm 3\DLDKMT\BTL\giaodien - Copy (2) - Copy\giaodien\obj\Debug\giaodien.csproj.AssemblyReference.cache
+D:\person\kì 2 năm 3\DLDKMT\BTL\giaodien - Copy (2) - Copy\giaodien\obj\Debug\giaodien.Form1.resources
+D:\person\kì 2 năm 3\DLDKMT\BTL\giaodien - Copy (2) - Copy\giaodien\obj\Debug\giaodien.Properties.Resources.resources
+D:\person\kì 2 năm 3\DLDKMT\BTL\giaodien - Copy (2) - Copy\giaodien\obj\Debug\giaodien.csproj.GenerateResource.cache
+D:\person\kì 2 năm 3\DLDKMT\BTL\giaodien - Copy (2) - Copy\giaodien\obj\Debug\giaodien.csproj.CoreCompileInputs.cache
+D:\person\kì 2 năm 3\DLDKMT\BTL\giaodien - Copy (2) - Copy\giaodien\obj\Debug\giaodien.exe
+D:\person\kì 2 năm 3\DLDKMT\BTL\giaodien - Copy (2) - Copy\giaodien\obj\Debug\giaodien.pdb
+C:\Users\thanh\Desktop\HCMUT\HK242\ĐLMT\giaodienesp32\giaodienesp32\giaodien\bin\Debug\giaodien.exe.config
+C:\Users\thanh\Desktop\HCMUT\HK242\ĐLMT\giaodienesp32\giaodienesp32\giaodien\bin\Debug\giaodien.exe
+C:\Users\thanh\Desktop\HCMUT\HK242\ĐLMT\giaodienesp32\giaodienesp32\giaodien\bin\Debug\giaodien.pdb
+C:\Users\thanh\Desktop\HCMUT\HK242\ĐLMT\giaodienesp32\giaodienesp32\giaodien\obj\Debug\giaodien.csproj.AssemblyReference.cache
+C:\Users\thanh\Desktop\HCMUT\HK242\ĐLMT\giaodienesp32\giaodienesp32\giaodien\obj\Debug\giaodien.Form1.resources
+C:\Users\thanh\Desktop\HCMUT\HK242\ĐLMT\giaodienesp32\giaodienesp32\giaodien\obj\Debug\giaodien.Properties.Resources.resources
+C:\Users\thanh\Desktop\HCMUT\HK242\ĐLMT\giaodienesp32\giaodienesp32\giaodien\obj\Debug\giaodien.csproj.GenerateResource.cache
+C:\Users\thanh\Desktop\HCMUT\HK242\ĐLMT\giaodienesp32\giaodienesp32\giaodien\obj\Debug\giaodien.csproj.CoreCompileInputs.cache
+C:\Users\thanh\Desktop\HCMUT\HK242\ĐLMT\giaodienesp32\giaodienesp32\giaodien\obj\Debug\giaodien.exe
+C:\Users\thanh\Desktop\HCMUT\HK242\ĐLMT\giaodienesp32\giaodienesp32\giaodien\obj\Debug\giaodien.pdb
+D:\person\kì 2 năm 3\DLDKMT\BTL\giaodienesp32 (1)\giaodienesp32\giaodien\obj\Debug\giaodien.csproj.AssemblyReference.cache
+D:\person\kì 2 năm 3\DLDKMT\BTL\giaodienesp32 (1)\giaodienesp32\giaodien\obj\Debug\giaodien.Form1.resources
+D:\person\kì 2 năm 3\DLDKMT\BTL\giaodienesp32 (1)\giaodienesp32\giaodien\obj\Debug\giaodien.Properties.Resources.resources
+D:\person\kì 2 năm 3\DLDKMT\BTL\giaodienesp32 (1)\giaodienesp32\giaodien\obj\Debug\giaodien.csproj.GenerateResource.cache
+D:\person\kì 2 năm 3\DLDKMT\BTL\giaodienesp32 (1)\giaodienesp32\giaodien\obj\Debug\giaodien.csproj.CoreCompileInputs.cache
+D:\person\kì 2 năm 3\DLDKMT\BTL\giaodienesp32 (1)\giaodienesp32\giaodien\obj\Debug\giaodien.exe
+D:\person\kì 2 năm 3\DLDKMT\BTL\giaodienesp32 (1)\giaodienesp32\giaodien\obj\Debug\giaodien.pdb
+D:\person\kì 2 năm 3\DLDKMT\BTL\giaodienesp32 (1)\giaodienesp32\giaodien\bin\Debug\giaodien.exe.config
+D:\person\kì 2 năm 3\DLDKMT\BTL\giaodienesp32 (1)\giaodienesp32\giaodien\bin\Debug\giaodien.exe
+D:\person\kì 2 năm 3\DLDKMT\BTL\giaodienesp32 (1)\giaodienesp32\giaodien\bin\Debug\giaodien.pdb
+C:\Users\thanh\Desktop\HCMUT\HK242\ĐLMT\giaodienfinal\giaodienfinal\giaodienesp32\giaodien\bin\Debug\giaodien.exe.config
+C:\Users\thanh\Desktop\HCMUT\HK242\ĐLMT\giaodienfinal\giaodienfinal\giaodienesp32\giaodien\bin\Debug\giaodien.exe
+C:\Users\thanh\Desktop\HCMUT\HK242\ĐLMT\giaodienfinal\giaodienfinal\giaodienesp32\giaodien\bin\Debug\giaodien.pdb
+C:\Users\thanh\Desktop\HCMUT\HK242\ĐLMT\giaodienfinal\giaodienfinal\giaodienesp32\giaodien\obj\Debug\giaodien.csproj.AssemblyReference.cache
+C:\Users\thanh\Desktop\HCMUT\HK242\ĐLMT\giaodienfinal\giaodienfinal\giaodienesp32\giaodien\obj\Debug\giaodien.Form1.resources
+C:\Users\thanh\Desktop\HCMUT\HK242\ĐLMT\giaodienfinal\giaodienfinal\giaodienesp32\giaodien\obj\Debug\giaodien.Properties.Resources.resources
+C:\Users\thanh\Desktop\HCMUT\HK242\ĐLMT\giaodienfinal\giaodienfinal\giaodienesp32\giaodien\obj\Debug\giaodien.csproj.GenerateResource.cache
+C:\Users\thanh\Desktop\HCMUT\HK242\ĐLMT\giaodienfinal\giaodienfinal\giaodienesp32\giaodien\obj\Debug\giaodien.csproj.CoreCompileInputs.cache
+C:\Users\thanh\Desktop\HCMUT\HK242\ĐLMT\giaodienfinal\giaodienfinal\giaodienesp32\giaodien\obj\Debug\giaodien.exe
+C:\Users\thanh\Desktop\HCMUT\HK242\ĐLMT\giaodienfinal\giaodienfinal\giaodienesp32\giaodien\obj\Debug\giaodien.pdb
+D:\HCMUT\HK252\DLMT\TIỂU LUẬN\TIỂU LUẬN\GIAO DIỆN ĐIỀU KHIỂN C#\giaodienfinal\giaodienesp32\giaodien\bin\Debug\giaodien.exe.config
+D:\HCMUT\HK252\DLMT\TIỂU LUẬN\TIỂU LUẬN\GIAO DIỆN ĐIỀU KHIỂN C#\giaodienfinal\giaodienesp32\giaodien\bin\Debug\giaodien.exe
+D:\HCMUT\HK252\DLMT\TIỂU LUẬN\TIỂU LUẬN\GIAO DIỆN ĐIỀU KHIỂN C#\giaodienfinal\giaodienesp32\giaodien\bin\Debug\giaodien.pdb
+D:\HCMUT\HK252\DLMT\TIỂU LUẬN\TIỂU LUẬN\GIAO DIỆN ĐIỀU KHIỂN C#\giaodienfinal\giaodienesp32\giaodien\obj\Debug\giaodien.csproj.AssemblyReference.cache
+D:\HCMUT\HK252\DLMT\TIỂU LUẬN\TIỂU LUẬN\GIAO DIỆN ĐIỀU KHIỂN C#\giaodienfinal\giaodienesp32\giaodien\obj\Debug\giaodien.exe.config
+D:\HCMUT\HK252\DLMT\TIỂU LUẬN\TIỂU LUẬN\GIAO DIỆN ĐIỀU KHIỂN C#\giaodienfinal\giaodienesp32\giaodien\obj\Debug\giaodien.Form1.resources
+D:\HCMUT\HK252\DLMT\TIỂU LUẬN\TIỂU LUẬN\GIAO DIỆN ĐIỀU KHIỂN C#\giaodienfinal\giaodienesp32\giaodien\obj\Debug\giaodien.Properties.Resources.resources
+D:\HCMUT\HK252\DLMT\TIỂU LUẬN\TIỂU LUẬN\GIAO DIỆN ĐIỀU KHIỂN C#\giaodienfinal\giaodienesp32\giaodien\obj\Debug\giaodien.csproj.GenerateResource.cache
+D:\HCMUT\HK252\DLMT\TIỂU LUẬN\TIỂU LUẬN\GIAO DIỆN ĐIỀU KHIỂN C#\giaodienfinal\giaodienesp32\giaodien\obj\Debug\giaodien.csproj.CoreCompileInputs.cache
+D:\HCMUT\HK252\DLMT\TIỂU LUẬN\TIỂU LUẬN\GIAO DIỆN ĐIỀU KHIỂN C#\giaodienfinal\giaodienesp32\giaodien\obj\Debug\giaodien.exe
+D:\HCMUT\HK252\DLMT\TIỂU LUẬN\TIỂU LUẬN\GIAO DIỆN ĐIỀU KHIỂN C#\giaodienfinal\giaodienesp32\giaodien\obj\Debug\giaodien.pdb
+D:\HCMUT\HK252\DLMT\TIEULUAN\TIEULUAN\GIAO DIỆN ĐIỀU KHIỂN C#\giaodienfinal\giaodienesp32\giaodien\bin\Debug\giaodien.exe.config
+D:\HCMUT\HK252\DLMT\TIEULUAN\TIEULUAN\GIAO DIỆN ĐIỀU KHIỂN C#\giaodienfinal\giaodienesp32\giaodien\bin\Debug\giaodien.exe
+D:\HCMUT\HK252\DLMT\TIEULUAN\TIEULUAN\GIAO DIỆN ĐIỀU KHIỂN C#\giaodienfinal\giaodienesp32\giaodien\bin\Debug\giaodien.pdb
+D:\HCMUT\HK252\DLMT\TIEULUAN\TIEULUAN\GIAO DIỆN ĐIỀU KHIỂN C#\giaodienfinal\giaodienesp32\giaodien\obj\Debug\giaodien.csproj.AssemblyReference.cache
+D:\HCMUT\HK252\DLMT\TIEULUAN\TIEULUAN\GIAO DIỆN ĐIỀU KHIỂN C#\giaodienfinal\giaodienesp32\giaodien\obj\Debug\giaodien.exe.config
+D:\HCMUT\HK252\DLMT\TIEULUAN\TIEULUAN\GIAO DIỆN ĐIỀU KHIỂN C#\giaodienfinal\giaodienesp32\giaodien\obj\Debug\giaodien.Form1.resources
+D:\HCMUT\HK252\DLMT\TIEULUAN\TIEULUAN\GIAO DIỆN ĐIỀU KHIỂN C#\giaodienfinal\giaodienesp32\giaodien\obj\Debug\giaodien.Properties.Resources.resources
+D:\HCMUT\HK252\DLMT\TIEULUAN\TIEULUAN\GIAO DIỆN ĐIỀU KHIỂN C#\giaodienfinal\giaodienesp32\giaodien\obj\Debug\giaodien.csproj.GenerateResource.cache
+D:\HCMUT\HK252\DLMT\TIEULUAN\TIEULUAN\GIAO DIỆN ĐIỀU KHIỂN C#\giaodienfinal\giaodienesp32\giaodien\obj\Debug\giaodien.csproj.CoreCompileInputs.cache
+D:\HCMUT\HK252\DLMT\TIEULUAN\TIEULUAN\GIAO DIỆN ĐIỀU KHIỂN C#\giaodienfinal\giaodienesp32\giaodien\obj\Debug\giaodien.exe
+D:\HCMUT\HK252\DLMT\TIEULUAN\TIEULUAN\GIAO DIỆN ĐIỀU KHIỂN C#\giaodienfinal\giaodienesp32\giaodien\obj\Debug\giaodien.pdb
+D:\HCMUT\HK252\DLMT\GIAO DIỆN ĐIỀU KHIỂN C# final\GIAO DIỆN ĐIỀU KHIỂN C#\giaodienfinal\giaodienesp32\giaodien\bin\Debug\giaodien.exe.config
+D:\HCMUT\HK252\DLMT\GIAO DIỆN ĐIỀU KHIỂN C# final\GIAO DIỆN ĐIỀU KHIỂN C#\giaodienfinal\giaodienesp32\giaodien\bin\Debug\giaodien.exe
+D:\HCMUT\HK252\DLMT\GIAO DIỆN ĐIỀU KHIỂN C# final\GIAO DIỆN ĐIỀU KHIỂN C#\giaodienfinal\giaodienesp32\giaodien\bin\Debug\giaodien.pdb
+D:\HCMUT\HK252\DLMT\GIAO DIỆN ĐIỀU KHIỂN C# final\GIAO DIỆN ĐIỀU KHIỂN C#\giaodienfinal\giaodienesp32\giaodien\obj\Debug\giaodien.csproj.AssemblyReference.cache
+D:\HCMUT\HK252\DLMT\GIAO DIỆN ĐIỀU KHIỂN C# final\GIAO DIỆN ĐIỀU KHIỂN C#\giaodienfinal\giaodienesp32\giaodien\obj\Debug\giaodien.exe.config
+D:\HCMUT\HK252\DLMT\GIAO DIỆN ĐIỀU KHIỂN C# final\GIAO DIỆN ĐIỀU KHIỂN C#\giaodienfinal\giaodienesp32\giaodien\obj\Debug\giaodien.Form1.resources
+D:\HCMUT\HK252\DLMT\GIAO DIỆN ĐIỀU KHIỂN C# final\GIAO DIỆN ĐIỀU KHIỂN C#\giaodienfinal\giaodienesp32\giaodien\obj\Debug\giaodien.Properties.Resources.resources
+D:\HCMUT\HK252\DLMT\GIAO DIỆN ĐIỀU KHIỂN C# final\GIAO DIỆN ĐIỀU KHIỂN C#\giaodienfinal\giaodienesp32\giaodien\obj\Debug\giaodien.csproj.GenerateResource.cache
+D:\HCMUT\HK252\DLMT\GIAO DIỆN ĐIỀU KHIỂN C# final\GIAO DIỆN ĐIỀU KHIỂN C#\giaodienfinal\giaodienesp32\giaodien\obj\Debug\giaodien.csproj.CoreCompileInputs.cache
+D:\HCMUT\HK252\DLMT\GIAO DIỆN ĐIỀU KHIỂN C# final\GIAO DIỆN ĐIỀU KHIỂN C#\giaodienfinal\giaodienesp32\giaodien\obj\Debug\giaodien.exe
+D:\HCMUT\HK252\DLMT\GIAO DIỆN ĐIỀU KHIỂN C# final\GIAO DIỆN ĐIỀU KHIỂN C#\giaodienfinal\giaodienesp32\giaodien\obj\Debug\giaodien.pdb
+D:\HCMUT\HK 252\DL va DKBMT\BTL HK252\FINAL\C#UI_Nhom02_L01\GIAO DIỆN ĐIỀU KHIỂN C# final\GIAO DIỆN ĐIỀU KHIỂN C#\giaodienfinal\giaodienesp32\giaodien\bin\Debug\giaodien.exe.config
+D:\HCMUT\HK 252\DL va DKBMT\BTL HK252\FINAL\C#UI_Nhom02_L01\GIAO DIỆN ĐIỀU KHIỂN C# final\GIAO DIỆN ĐIỀU KHIỂN C#\giaodienfinal\giaodienesp32\giaodien\bin\Debug\giaodien.exe
+D:\HCMUT\HK 252\DL va DKBMT\BTL HK252\FINAL\C#UI_Nhom02_L01\GIAO DIỆN ĐIỀU KHIỂN C# final\GIAO DIỆN ĐIỀU KHIỂN C#\giaodienfinal\giaodienesp32\giaodien\bin\Debug\giaodien.pdb
+D:\HCMUT\HK 252\DL va DKBMT\BTL HK252\FINAL\C#UI_Nhom02_L01\GIAO DIỆN ĐIỀU KHIỂN C# final\GIAO DIỆN ĐIỀU KHIỂN C#\giaodienfinal\giaodienesp32\giaodien\obj\Debug\giaodien.csproj.AssemblyReference.cache
+D:\HCMUT\HK 252\DL va DKBMT\BTL HK252\FINAL\C#UI_Nhom02_L01\GIAO DIỆN ĐIỀU KHIỂN C# final\GIAO DIỆN ĐIỀU KHIỂN C#\giaodienfinal\giaodienesp32\giaodien\obj\Debug\giaodien.Form1.resources
+D:\HCMUT\HK 252\DL va DKBMT\BTL HK252\FINAL\C#UI_Nhom02_L01\GIAO DIỆN ĐIỀU KHIỂN C# final\GIAO DIỆN ĐIỀU KHIỂN C#\giaodienfinal\giaodienesp32\giaodien\obj\Debug\giaodien.Properties.Resources.resources
+D:\HCMUT\HK 252\DL va DKBMT\BTL HK252\FINAL\C#UI_Nhom02_L01\GIAO DIỆN ĐIỀU KHIỂN C# final\GIAO DIỆN ĐIỀU KHIỂN C#\giaodienfinal\giaodienesp32\giaodien\obj\Debug\giaodien.csproj.GenerateResource.cache
+D:\HCMUT\HK 252\DL va DKBMT\BTL HK252\FINAL\C#UI_Nhom02_L01\GIAO DIỆN ĐIỀU KHIỂN C# final\GIAO DIỆN ĐIỀU KHIỂN C#\giaodienfinal\giaodienesp32\giaodien\obj\Debug\giaodien.csproj.CoreCompileInputs.cache
+D:\HCMUT\HK 252\DL va DKBMT\BTL HK252\FINAL\C#UI_Nhom02_L01\GIAO DIỆN ĐIỀU KHIỂN C# final\GIAO DIỆN ĐIỀU KHIỂN C#\giaodienfinal\giaodienesp32\giaodien\obj\Debug\giaodien.exe
+D:\HCMUT\HK 252\DL va DKBMT\BTL HK252\FINAL\C#UI_Nhom02_L01\GIAO DIỆN ĐIỀU KHIỂN C# final\GIAO DIỆN ĐIỀU KHIỂN C#\giaodienfinal\giaodienesp32\giaodien\obj\Debug\giaodien.pdb
